@@ -1,20 +1,3 @@
-<div align="center">
-
-# 🎓 Getting Admission in College Prediction
-
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohansacharya/graduate-admissions)
-[![Best R²](https://img.shields.io/badge/Best%20R²-0.821-brightgreen?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
-
-> Predicts a student's **probability of graduate college admission** (as a continuous value between 0 and 1) from 7 academic and profile features — using a `GridSearchCV`-powered model comparison across 6 regression algorithms.
-
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
-
-</div>
-
 ---
 
 ## 📌 Table of Contents
@@ -209,10 +192,3 @@ jupyter notebook Admission_prediction.ipynb
 
 ---
 
-<div align="center">
-
-Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
-
-⭐ Star the main repo if this helped you!
-
-</div>
